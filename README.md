@@ -15,9 +15,6 @@ _This is my machine learning project of Crop Recommendation System using Naive B
 - [Explaination Video](https://youtu.be/Le1xUJt5Y0Y)
 
 
-***Thank You !***
-
-
-
 ![Photo](https://github.com/Gayatrib1234/Crop_Recomendation_using_Naive_Bayes/blob/c0a5764170653fd4dc035511377c9c24237d7340/Crop%20Recommendation.jpg)
 
+***Thank You !***
